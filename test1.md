@@ -54,4 +54,13 @@
 35
 435
 34353
+起因：
+
+我这里不选择关闭上面截图的设置，按照方法继续操作。
+1、使用命令查看当前的全局用户E-mail
+git config --global user.email
+2、找到你github给的推荐E-mail.
+在settting里面的Emails。
+我的推荐E-mail：23214540+Hitvz@users.noreply.github.com
+3、重新设置你的全局用户E-mail
 
